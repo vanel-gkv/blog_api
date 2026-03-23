@@ -87,8 +87,3 @@ GET /api/articles/search?query=texte
 
 
 
-
-
-
-
-Veux-tu que je génère aussi un **exemple de test avec `curl` ou `httpie`** pour que tu puisses montrer dans ton rapport comment tu as vérifié tes endpoints ?
