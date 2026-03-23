@@ -39,8 +39,8 @@ uvicorn blog_api.main:app --reload
 
 Le serveur démarre sur :  
  [http://127.0.0.1:8000](http://127.0.0.1:8000)  
- Documentation Swagger : `http://127.0.0.1:8000/docs` [(127.0.0.1 in Bing)](https://www.bing.com/search?q="http%3A%2F%2F127.0.0.1%3A8000%2Fdocs")  
- Documentation ReDoc : `http://127.0.0.1:8000/redoc` [(127.0.0.1 in Bing)](https://www.bing.com/search?q="http%3A%2F%2F127.0.0.1%3A8000%2Fredoc")  
+ Documentation Swagger : http://127.0.0.1:8000/docs 
+ 
 
 
 
