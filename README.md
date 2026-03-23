@@ -9,9 +9,8 @@ Elle permet de gérer des articles de blog (CRUD : Create, Read, Update, Delete)
 
    1. Cloner le projet
 ```bash
-git clone https://github.com/ton-compte/blog_api.git
-cd blog_api
-```
+git clone https://github.com/vanel-gkv/blog_api.git
+puis cd blog_api 
 
  2. Créer un environnement virtuel dans le terminal 
 
